@@ -1,0 +1,14 @@
+{
+  "name": "nestjs-microservices-shared-resources",
+  "version": "0.0.2",
+  "description": "This library is used as a share resources between microservices for common things like abstract repositories, abstract entities and many more utility functions by dianujnima",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dianujnima/nestjs-microservices-shared-resources.git"
+  },
+  "author": "dianujnima",
+  "license": "ISC"
+}
